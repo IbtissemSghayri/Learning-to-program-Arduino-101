@@ -1,4 +1,4 @@
-![Wiring Diagram](wiring.png)
+![Wiring Diagram](https://github.com/IbtissemSghayri/Learning-to-program-Arduino-101/blob/main/wiring.png?raw=true)
 
 void setup() {
   // c'est l'initialisation taa serial communication at 9600 bits per second
