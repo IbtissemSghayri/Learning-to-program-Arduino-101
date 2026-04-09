@@ -1,3 +1,5 @@
+![Wiring Diagram](wiring.png)
+
 void setup() {
   // c'est l'initialisation taa serial communication at 9600 bits per second
   Serial.begin(9600);
